@@ -1,0 +1,4 @@
+2026-01-29 19:27:57,070 - ERROR - Division by zero error
+2026-01-29 19:27:57,071 - ERROR - Invalid data type used
+2026-01-29 19:27:57,071 - ERROR - Negative numbers are not allowed
+2026-01-29 19:27:57,071 - ERROR - Index out of range error
